@@ -19,14 +19,14 @@ Java 1.8 and maven
 - resources = discount configuration for each sku captured here
 - test = unit testcases
 
-##Assumption
+## Assumption
 - No GUI or command line required
 - Best practices like logging, database integrations etc not included
 - MVP Solution takes assumption that each product will have one offer attached to it
 
-##Building Application:
+## Building Application:
 To build, call mvn install
 
-##Running Test:
+## Running Test:
 To run the unit tests, call mvn test
 
