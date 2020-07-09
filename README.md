@@ -1,9 +1,9 @@
-# DiUS Shopping Checkout Application
+## DiUS Shopping Checkout Application
 
-##Requirement:
+## Requirement:
 https://raw.githubusercontent.com/DiUS/coding-tests/master/dius_shopping.md
 
-##Pre-requisites for running the Application:
+## Pre-requisites for running the Application:
 Java 1.8 and maven
 
 
